@@ -1,0 +1,3 @@
+Admin|Admin|true|QWRtaW4=|5c11771a-7f72-49cf-b159-5c8f6e2467b2|12.04.2021 23:02:54
+František|Vopršálek|False|aGVzbG8=|01b5a8cb-c6db-4bf4-8d20-30867e9ac8fa|12.04.2021 23:02:37
+Horác|Kašpar|False|aGVzbG8=|5d72d19f-bb4e-425b-a1f0-44d38eddd98a|12.04.2021 23:01:14

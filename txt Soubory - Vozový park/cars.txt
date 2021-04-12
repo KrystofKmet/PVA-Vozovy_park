@@ -1,0 +1,2 @@
+Škoda|Octavia|osobní|5,2|d1303f29-0669-48bc-a4ea-a68eaa968f30|False
+Škoda|Fabia|osobní|7,8|72d6aae5-02ec-4427-9efd-0c457b26e40d|False
